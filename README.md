@@ -1,6 +1,6 @@
 # Proyecto de Automatización con Appium
 
-Este proyecto contiene pruebas automatizadas para una aplicación móvil utilizando Appium y BrowserStack.
+Este proyecto contiene pruebas automatizadas para una aplicación móvil utilizando Appium y Plantilla de BrowserStack.
 
 ## Requisitos de Instalación
 
